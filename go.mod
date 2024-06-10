@@ -1,4 +1,4 @@
-module github.com/aayush-makhija/invidns
+module github.com/aayush-makhija/try
 
 go 1.22.1
 
